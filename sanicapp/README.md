@@ -1,4 +1,7 @@
-# 4moshe
+Install requirements:
+pip install requirements.txt
+
+Add users to sanicapp.py if needed.
 
 Run:
   python sanicapp.py
